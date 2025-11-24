@@ -1,0 +1,1 @@
+Understanding back propagation and training of neural networks, following the awesomely course(https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) curated by Andrej Karpathy
